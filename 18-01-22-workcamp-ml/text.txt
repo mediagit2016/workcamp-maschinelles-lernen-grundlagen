@@ -1,0 +1,1 @@
+# Hier ein Beispiel zur Klassifikation und die einführung verschiedener Metriken zur Beurteilung der Vorhersagegenauigkeit.
