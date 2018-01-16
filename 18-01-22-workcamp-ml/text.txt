@@ -1,1 +1,3 @@
-# Hier ein Beispiel zur Klassifikation und die einführung verschiedener Metriken zur Beurteilung der Vorhersagegenauigkeit.
+# Hier ein Beispiel zur Klassifikation und die Einführung verschiedener Metriken zur Beurteilung der Vorhersagegenauigkeit.
+# Precision, Recall, F1-Score
+# Confusion Matrix
