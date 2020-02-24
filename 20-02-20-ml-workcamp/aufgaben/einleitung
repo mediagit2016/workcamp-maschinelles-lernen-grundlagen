@@ -1,5 +1,11 @@
 Hier werden die Aufgaben stehen
 
 1. Laden Sie die Datei matplotlib-werkzeugkiste-20.ypnb von github herunter
-2. Machen Sie einen Upload auf Ihren Jupyter Hub Workspace
-3. Führen Sie die Zellen in diesem Notebook aus
+Klicken Sie die Datei an
+Klicken Sie auf Raw
+Die sich öffnende Datei - Rechte Maustaste - Alles markieren - Kopieren
+In einen Editor einfügen
+Speichern unter als matplotlib-werkzeugkiste-20.ypnb  Achtung: Auf utf-8 umstellen und alle Dateien auswählen. Endung .ypnb
+mit eingeben
+2. Machen Sie einen Upload der Datei matplotlib-werkzeugkiste-20.ypnb auf Ihren Jupyter Hub Workspace
+3. Führen Sie die Zellen in diesem Notebook aus.
